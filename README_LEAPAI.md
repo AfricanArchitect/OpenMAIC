@@ -1,7 +1,7 @@
 # 🊁 LeapAI
 ### *"Your leap into AI starts here."*
 
-> **LeapAI** is the United States' first national lifelong AI learning and workforce transition platform.
+> **LeapAI** is Super Intelligence Agency and the world's first national lifelong AI learning and workforce transition platform.
 > Free. Open-source. Built for every American, age 5 to 120.
 >
 > Built on [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (Tsinghua University, 2026).
