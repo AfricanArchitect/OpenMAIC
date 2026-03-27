@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-LeapAI is a national lifelong AI learning and workforce transition infrastructure built on three
+LeapAI is Super Intelligence Agency and the world's first national lifelong AI learning and workforce transition infrastructure, built on three
 interdependent pillars: an open-source AI classroom platform (powered by OpenMAIC), a portable
 digital credential system (the LeapAI Learning Passport), and a portable funding mechanism
 (Lifelong Learning Accounts). Together, these pillars address the structural root causes of the
