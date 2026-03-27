@@ -5,7 +5,7 @@
 
 ## What Is LeapAI?
 
-LeapAI is the United States' first national lifelong AI learning and workforce transition platform —
+LeapAI is Super Intelligence Agency and the world's first national lifelong AI learning and workforce transition platform —
 free, open-source, and built for every American from age 5 to 120.
 
 Built on the open-source **OpenMAIC** classroom engine (Tsinghua University / JCST 2026),
